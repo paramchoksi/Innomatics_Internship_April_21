@@ -1,6 +1,6 @@
 # Innomatics_Internship_April_21
 
- - All above mention tasks is hackerrenk problems of Python Programming Languages.
+ - All above mention tasks is solved in python programming language.
  - I have achived 5⭐ (Gold badge) in Python @hackerRank
  
  ![5 start python](https://github.com/paramchoksi/Innomatics_Internship_April_21/blob/main/5_star_python.png?raw=true)
